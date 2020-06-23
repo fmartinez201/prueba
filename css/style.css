@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 15px;
+	color:#878787;
+}
+
+header{
+	background-color: transparent;
+	padding: 20px 0;
+	position: absolute;
+	width: 100%;
+	z-index: 999999;
+}
+
+#home{
+background-image: url("../img/home-header-bg.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+color: #fff;
+padding: 12% 0;
+}
+
+.btn-running{
+	
+
+background-color: #fba755;
+border-radius: 0;
+	padding: 12px 30px;
+	border:0;
+	letter-spacing: 1px;
+}
+
+#coaches{
+	text-align: center;
+	padding: 20px;
+}
+
+#coaches h1{
+	color:#272525;
+	font-weight: 600;
+}
+
+#coaches h2{
+	color:#272525;
+}
+
+#coaches p{
+	color:#7e7979;
+}
+
+#motivation{
+	padding: 20px;
+}
+
+#motivation h2{
+	color: #272525;
+}
+
+footer{
+	background-color: #272525;
+	text-align: center;
+}
+
+p{
+text-align: center;
+}
+	
